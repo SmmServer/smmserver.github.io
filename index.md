@@ -17,3 +17,15 @@ Open source private server for Super Mario Maker, integrated with [smmdb](https:
 ![screenshot](/images/SmmServer.png)
 
 ![cemu](/images/Cemu.png)
+
+## Credits
+
+None of this would have been possible without these projects/people:
+
+- [NintendoClients](https://github.com/Kinnay/NintendoClients) by [Yannik Marchand](https://github.com/Kinnay)
+- [SMMDB](https://smmdb.ddns.net) by [Mario Reder](https://github.com/Tarnadas)
+- [Cemu](https://cemu.info) by Team Cemu
+- [Python 3.7](https://www.python.org)
+- [Caddy](https://caddyserver.com) by [Matt Holt](https://matt.life/)
+- [Pretendo Discord](https://invite.gg/pretendo)
+- Umbreon
