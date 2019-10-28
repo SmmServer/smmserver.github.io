@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://smmserver.github.io/sitemap.xml

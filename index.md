@@ -1,8 +1,12 @@
 ---
 layout: default
+image:
+  path: /images/mushroom.png
+  height: 512
+  width: 512
 ---
 
-Open source private server for Super Mario Maker, integrated with [SMMDB](https://smmdb.ddns.net) and [Cemu](https://cemu.info). For questions or bug reports you can [open an issue](https://github.com/SmmServer/SmmServer/issues).
+Open source private server for Super Mario Maker (Wii U), integrated with [SMMDB](https://smmdb.ddns.net) and [Cemu](https://cemu.info). For questions or bug reports you can [open an issue](https://github.com/SmmServer/SmmServer/issues).
 
 ## Features
 
