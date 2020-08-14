@@ -6,7 +6,7 @@ image:
   width: 512
 ---
 
-Open source private server for Super Mario Maker (Wii U), integrated with [SMMDB](https://smmdb.ddns.net) and [Cemu](https://cemu.info). For questions or bug reports you can [open an issue](https://github.com/SmmServer/SmmServer/issues).
+Open source private server for Super Mario Maker (Wii U), integrated with [SMMDB](https://smmdb.net) and [Cemu](https://cemu.info). For questions or bug reports you can [open an issue](https://github.com/SmmServer/SmmServer/issues).
 
 ## Features
 
@@ -42,7 +42,7 @@ Features that are **not** implemented:
 None of this would have been possible without these projects/people:
 
 - [NintendoClients](https://github.com/Kinnay/NintendoClients) by [Yannik Marchand](https://github.com/Kinnay)
-- [SMMDB](https://smmdb.ddns.net) by [Mario Reder](https://github.com/Tarnadas)
+- [SMMDB](https://smmdb.net) by [Mario Reder](https://github.com/Tarnadas)
 - [Cemu](https://cemu.info) by Team Cemu
 - [Python 3.7](https://www.python.org)
 - [Caddy](https://caddyserver.com) by [Matt Holt](https://matt.life/)
