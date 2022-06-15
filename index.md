@@ -46,5 +46,4 @@ None of this would have been possible without these projects/people:
 - [Cemu](https://cemu.info) by Team Cemu
 - [Python 3.7](https://www.python.org)
 - [Caddy](https://caddyserver.com) by [Matt Holt](https://matt.life/)
-- [Pretendo Discord](https://invite.gg/pretendo)
 - Umbreon
