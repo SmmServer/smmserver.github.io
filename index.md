@@ -44,7 +44,8 @@ None of this would have been possible without these projects/people:
 - [NintendoClients](https://github.com/Kinnay/NintendoClients) by [Yannik Marchand](https://github.com/Kinnay)
 - [SMMDB](https://smmdb.net) by [Mario Reder](https://github.com/Tarnadas)
 - [Cemu](https://cemu.info) by Team Cemu
-- [Python 3.7](https://www.python.org)
+- [Python 3.12](https://www.python.org)
 - [Caddy](https://caddyserver.com) by [Matt Holt](https://matt.life/)
 - Umbreon
+
 
