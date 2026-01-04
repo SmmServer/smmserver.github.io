@@ -13,15 +13,15 @@ Open source private server for Super Mario Maker (Wii U), integrated with [SMMDB
 This is prototype-quality software. Do not expect it to work 100% of the time, however you should be able to do the following things:
 
 - ✔️ 100 Mario Challenge (using random levels from SMMDB).
+- ✔️ Level uploading.
+- ✔️ Synchronized stars.
 - ✔️ Basic functionality in other areas.
 
 Features that are **not** implemented:
 
-- ❌ Level uploading.
 - ❌ Course browser.
 - ❌ Makers.
 - ❌ Bookmarks.
-- ❌ Synchronized stars.
 
 ## Installation
 
@@ -44,6 +44,8 @@ None of this would have been possible without these projects/people:
 - [NintendoClients](https://github.com/Kinnay/NintendoClients) by [Yannik Marchand](https://github.com/Kinnay)
 - [SMMDB](https://smmdb.net) by [Mario Reder](https://github.com/Tarnadas)
 - [Cemu](https://cemu.info) by Team Cemu
-- [Python 3.7](https://www.python.org)
+- [Python 3.12](https://www.python.org)
 - [Caddy](https://caddyserver.com) by [Matt Holt](https://matt.life/)
 - Umbreon
+
+
