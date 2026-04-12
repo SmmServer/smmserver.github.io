@@ -16,10 +16,10 @@ This is prototype-quality software. Do not expect it to work 100% of the time, h
 - ✔️ Level uploading.
 - ✔️ Synchronized stars.
 - ✔️ Basic functionality in other areas.
+- ✔️ Course browser.
 
 Features that are **not** implemented:
 
-- ❌ Course browser.
 - ❌ Makers.
 - ❌ Bookmarks.
 
